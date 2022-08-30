@@ -1,7 +1,7 @@
 ﻿# gatsbuy-shopify
 
-Link: https://gatsbuy.developerjahid.com
+Link: https://gatsbuy.vercel.app/
 
-This progressive web app currently on development process by developerjahid. It's
+This progressive web app currently on development process by @thejahid. It's
 using Shopify, Gatsby, React, Node, GraphQL, Styled Component. It'll be the world fast web app using
 shopify.
